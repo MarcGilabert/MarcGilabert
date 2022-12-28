@@ -3,8 +3,10 @@
 
 👩‍💻 Business Analyst with financial background
 
+
 ### ✨ About Me  ✨
 I'm a Business Analyst with financial background having worked in multinational environments as Financial Auditor and Controlling.
+Recently certified as Data Analyst in Ironhack. 
 
 During my professional career I have worked in many projects related in data and business analysis interacting between departments to support decision-making through data analysis.
 I have done several projects in Python such as, analyzing large amounts of data and performing EDA study using libraries like: Pandas, Numpy, Matplotlib, Seaborn and Sklearn.
