@@ -20,4 +20,4 @@ I could see how analyzing large amounts of data is a key role in the development
 
 
 ### 🙌🏻 Connect with Me
-- [LinkedIn](www.linkedin.com/in/marc-gilabert-zubielqui)
+(www.linkedin.com/in/marc-gilabert-zubielqui)
