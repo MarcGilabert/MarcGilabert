@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Marc
 
 
-👩‍💻 Business Analyst with financial background
+👩‍💻 Business Analyst with financial background (Business Controlling)
 
 
 ### ✨ About Me  ✨
